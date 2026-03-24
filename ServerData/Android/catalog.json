@@ -6,21 +6,14 @@
       "title": "Patient Data One",
       "description": "Interactive model with opacity controls.",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/SrivatsanLakshmanan2312/XRCapla@1.0/ServerData/Android/PatientDataOne.png",
-      "addressableKey": "TestSphere"
+      "addressableKey": "PatientDataSmallOne"
     },
     {
       "id": "patient_data_two",
       "title": "Patient Data Two",
       "description": "Layer-based visualization.",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/SrivatsanLakshmanan2312/XRCapla@1.0/ServerData/Android/PatientDataTwo.png",
-      "addressableKey": "TestSphere"
-    },
-    {
-      "id": "patient_data_three",
-      "title": "Patient Data Three",
-      "description": "Layer-based visualization.",
-      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/SrivatsanLakshmanan2312/XRCapla@1.0/ServerData/Android/PatientDataTwo.png",
-      "addressableKey": "TestSphere"
+      "addressableKey": "PatientDataSmallTwo"
     }
   ]
 }
