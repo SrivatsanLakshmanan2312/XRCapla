@@ -19,8 +19,15 @@
       "id": "patient_data_three",
       "title": "Patient Data Three",
       "description": "Layer-based visualization.",
-      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/SrivatsanLakshmanan2312/XRCapla@1.0/ServerData/Android/PatientDataThree.png",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/SrivatsanLakshmanan2312/XRCapla@1.0/ServerData/Android/PatientDataTwo.png",
       "addressableKey": "PatientDataSmallThree"
+    },
+    {
+      "id": "patient_data_four",
+      "title": "Patient Data Four",
+      "description": "Layer-based visualization.",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/SrivatsanLakshmanan2312/XRCapla@1.0/ServerData/Android/PatientDataOne.png",
+      "addressableKey": "PatientDataSmallFour"
     }
   ]
 }
