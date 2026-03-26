@@ -28,6 +28,13 @@
       "description": "Layer-based visualization.",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/SrivatsanLakshmanan2312/XRCapla@1.0/ServerData/Android/PatientDataOne.png",
       "addressableKey": "PatientDataSmallFour"
+    },
+    {
+      "id": "patient_data_five",
+      "title": "Patient Data Five",
+      "description": "Layer-based visualization.",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/SrivatsanLakshmanan2312/XRCapla@1.0/ServerData/Android/PatientDataOne.png",
+      "addressableKey": "PatientDataSmallFive"
     }
   ]
 }
